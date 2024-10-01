@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+   
 </head>
 <body>
     <h1>AtliQ Motors - EV Sales and Infrastructure Analysis</h1>
@@ -11,7 +11,7 @@
         This project, part of the <strong>Codebasics Resume Challenge</strong>, provides an in-depth analysis of electric vehicle (EV) sales, market penetration, and charging infrastructure across India. Using <strong>Power BI</strong> and <strong>DAX Measures</strong>, the analysis sheds light on the performance of different states, key EV manufacturers, and the infrastructure development crucial to EV adoption. These insights can guide AtliQ Motors in making data-driven strategic decisions.
     </p>
 
-   <h2>1. State-Wise EV Sales Analysis</h2>
+ <h2>1. State-Wise EV Sales Analysis</h2>
     <p>
         The state-wise analysis breaks down total EV sales by state, highlighting the top regions driving the growth of electric mobility in India. It also offers insights into the dominance of the two-wheeler category and the importance of affordable, eco-friendly transportation.
     </p>
@@ -24,9 +24,9 @@
         This analysis allows us to see which states are embracing EVs and what categories of vehicles are most popular in each region.
     </p>
     <!-- Insert State-Wise Analysis Dashboard Image -->
-    <img src="path-to-your-state-wise-analysis-dashboard.png" alt="State-Wise EV Sales Analysis">
+    <img src="https://drive.google.com/uc?export=view&id=1VzIsWO6MBSOMizqtJ2ZAsWnEu_Nwku_c" alt="State-Wise EV Sales Analysis">
 
-  <h2>2. Maker-Wise Analysis</h2>
+<h2>2. Maker-Wise Analysis</h2>
     <p>
         The maker-wise analysis focuses on the performance of leading EV manufacturers in India, examining their market share, growth trends, and overall sales. The section highlights key players like Ola Electric, TVS, Ather, and Bajaj, giving insights into their market positioning.
     </p>
@@ -39,9 +39,9 @@
         This analysis highlights the competitive landscape among EV makers and identifies growth opportunities for AtliQ Motors in various market segments.
     </p>
     <!-- Insert Maker-Wise Analysis Dashboard Image -->
-    <img src="path-to-your-maker-wise-analysis-dashboard.png" alt="Maker-Wise EV Sales Analysis">
+    <img src="https://drive.google.com/uc?export=view&id=1TYYRbxSiufu0VoT3YyJuiZZbx6ZIUOJN" alt="Maker-Wise EV Sales Analysis">
 
-  <h2>3. Infrastructure-Wise Analysis</h2>
+ <h2>3. Infrastructure-Wise Analysis</h2>
     <p>
         The infrastructure-wise analysis looks at the availability and utilization of public charging stations (PCS) across different states. The efficiency of these stations, measured in sales per station, offers insights into how well the infrastructure supports the growing number of EVs.
     </p>
@@ -54,7 +54,7 @@
         This analysis highlights the importance of continued infrastructure development to match the growing demand for EVs.
     </p>
     <!-- Insert Infrastructure-Wise Analysis Dashboard Image -->
-    <img src="path-to-your-infrastructure-analysis-dashboard.png" alt="Infrastructure-Wise EV Analysis">
+    <img src="https://drive.google.com/uc?export=view&id=1lD2GOnMQnkHpniszoxmNxhxHMGifBOz0" alt="Infrastructure-Wise EV Analysis">
 
   <h2>4. State-Wise Comparison</h2>
     <p>
@@ -69,9 +69,9 @@
         This comparison offers actionable insights into how states are performing relative to one another, helping AtliQ Motors identify potential markets for future expansion.
     </p>
     <!-- Insert State-Wise Comparison Dashboard Image -->
-    <img src="https://drive.google.com/file/d/1jcxY5YQMpDhesdF9fmrTAVHF9GW7fkg0/view?usp=sharing" alt="State-Wise EV Sales Comparison">
-
-   <h2>Tools & Techniques Used</h2>
+    <img src="https://drive.google.com/uc?export=view&id=1jcxY5YQMpDhesdF9fmrTAVHF9GW7fkg0" alt="State wise comparison">
+    
+ <h2>Tools & Techniques Used</h2>
     <p>
         The following tools and methods were used for the analysis:
     </p>
@@ -81,7 +81,7 @@
         <li><strong>Data Cleaning & Transformation:</strong> Processed raw datasets to derive accurate insights on EV sales and infrastructure development.</li>
     </ul>
 
-   <h2>Conclusion</h2>
+  <h2>Conclusion</h2>
     <p>
         This project offers AtliQ Motors a data-driven roadmap to navigate India's growing EV market. By understanding regional trends, manufacturer performance, and infrastructure needs, AtliQ Motors can strategically position itself for growth in the EV industry. 
     </p>
